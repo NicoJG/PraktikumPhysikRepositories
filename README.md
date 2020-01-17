@@ -1,2 +1,23 @@
 # PraktikumPhysikRepositories
 Eine Zusammenstellung von öffentlichen Github Repositories zum Physik Praktikum an der TU Dortmund.
+
+Um die Tabelle zu erstellen wird die Python Bibliothek [pytablewriter](https://github.com/thombashi/pytablewriter) benötigt.
+
+|                            User                             |                                      Repository                                       |
+|-------------------------------------------------------------|---------------------------------------------------------------------------------------|
+|[Fresoquark](https://github.com/Fresoquark)                  |[Anfaengerpraktikum](https://github.com/Fresoquark/Anfaengerpraktikum)                 |
+|[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel)|[AnfaengerPraktikum](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)        |
+|[woklop9](https://github.com/woklop9)                        |[Anfaengerpraktikum](https://github.com/woklop9/Anfaengerpraktikum)                    |
+|[syhon](https://github.com/syhon)                            |[Anfaengerpraktikum](https://github.com/syhon/Anfaengerpraktikum)                      |
+|[aknierim](https://github.com/aknierim)                      |[AP](https://github.com/aknierim/AP)                                                   |
+|[HelenaCarlArne](https://github.com/HelenaCarlArne)          |[ProtokolleAP](https://github.com/HelenaCarlArne/ProtokolleAP)                         |
+|[dlmsr](https://github.com/dlmsr)                            |[praktikum](https://github.com/dlmsr/praktikum)                                        |
+|[mwindau](https://github.com/mwindau)                        |[praktikum](https://github.com/mwindau/praktikum)                                      |
+|[Cl3V0r](https://github.com/Cl3V0r)                          |[APWS16-17](https://github.com/Cl3V0r/APWS16-17)                                       |
+|[Jean1995](https://github.com/Jean1995)                      |[Praktikum](https://github.com/Jean1995/Praktikum)                                     |
+|[LuckyJosh](https://github.com/LuckyJosh)                    |[APPhysik](https://github.com/LuckyJosh/APPhysik)                                      |
+|[paul-stoerbrock](https://github.com/paul-stoerbrock)        |[Praktikum](https://github.com/paul-stoerbrock/Praktikum)                              |
+|[komrozik](https://github.com/komrozik)                      |[AP2019](https://github.com/komrozik/AP2019)                                           |
+|[chrbeckm](https://github.com/chrbeckm)                      |[anfaenger-praktikum](https://github.com/chrbeckm/anfaenger-praktikum)                 |
+|[NicoJG](https://github.com/NicoJG)                          |[Anfaengerpraktikum](https://github.com/NicoJG/Anfaengerpraktikum)                     |
+|[SamGTex](https://github.com/SamGTex)                        |[Physik_Praktikum_Samuel_Max ](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max )|
