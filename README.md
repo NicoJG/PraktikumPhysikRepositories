@@ -23,7 +23,7 @@ Um die Tabelle zu erstellen wird die Python Bibliothek [pytablewriter](https://g
 |[NicoJG](https://github.com/NicoJG)                          |[Anfaengerpraktikum](https://github.com/NicoJG/Anfaengerpraktikum)                   |
 |[SamGTex](https://github.com/SamGTex)                        |[Physik_Praktikum_Samuel_Max](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)|
 |[dagbjoern](https://github.com/dagbjoern)                    |[AP-Physik](https://github.com/dagbjoern/AP-Physik)                                  |
-|[JLammeringP](https://github.com/JLammeringP)                |[hysikalisches-Praktikum](https://github.com/JLammeringP/hysikalisches-Praktikum)    |
+|[JLammering](https://github.com/JLammering)                  |[Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)   |
 |[Renameus](https://github.com/Renameus)                      |[PhysikPraktikum1](https://github.com/Renameus/PhysikPraktikum1)                     |
 |[stefangri](https://github.com/stefangri)                    |[s_s_productions](https://github.com/stefangri/s_s_productions)                      |
 |[smjolame](https://github.com/smjolame)                      |[Praktikum_1](https://github.com/smjolame/Praktikum_1)                               |
