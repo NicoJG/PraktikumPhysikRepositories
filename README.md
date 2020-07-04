@@ -14,7 +14,6 @@ Um die Tabelle zu erstellen wird die Python Bibliothek [pytablewriter](https://g
 |[HelenaCarlArne](https://github.com/HelenaCarlArne)          |[ProtokolleAP](https://github.com/HelenaCarlArne/ProtokolleAP)                       |
 |[dlmsr](https://github.com/dlmsr)                            |[praktikum](https://github.com/dlmsr/praktikum)                                      |
 |[mwindau](https://github.com/mwindau)                        |[praktikum](https://github.com/mwindau/praktikum)                                    |
-|[Cl3V0r](https://github.com/Cl3V0r)                          |[APWS16-17](https://github.com/Cl3V0r/APWS16-17)                                     |
 |[Jean1995](https://github.com/Jean1995)                      |[Praktikum](https://github.com/Jean1995/Praktikum)                                   |
 |[LuckyJosh](https://github.com/LuckyJosh)                    |[APPhysik](https://github.com/LuckyJosh/APPhysik)                                    |
 |[paul-stoerbrock](https://github.com/paul-stoerbrock)        |[Praktikum](https://github.com/paul-stoerbrock/Praktikum)                            |
