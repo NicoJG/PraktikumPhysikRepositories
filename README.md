@@ -1,6 +1,5 @@
 # PraktikumPhysikRepositories
 Eine Zusammenstellung von öffentlichen Github Repositories zum Physik Praktikum an der TU Dortmund.
-Nennt mich verrückt, aber ich wollte einfach mal eine Liste davon erstellen.
 
 Um die Tabelle zu erstellen wird die Python Bibliothek [pytablewriter](https://github.com/thombashi/pytablewriter) benötigt.
 
