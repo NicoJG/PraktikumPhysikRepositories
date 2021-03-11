@@ -8,7 +8,7 @@ Um die Tabelle zu erstellen wird die Python Bibliothek [pytablewriter](https://g
 |[Fresoquark](https://github.com/Fresoquark)                  |[Anfaengerpraktikum](https://github.com/Fresoquark/Anfaengerpraktikum)               |
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel)|[AnfaengerPraktikum](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)      |
 |[woklop9](https://github.com/woklop9)                        |[Anfaengerpraktikum](https://github.com/woklop9/Anfaengerpraktikum)                  |
-|[syhon](https://github.com/syhon)                            |[Anfaengerpraktikum](https://github.com/syhon/Anfaengerpraktikum)                    |
+|[LarsKolk](https://github.com/LarsKolk)                      |[Anfaengerpraktikum](https://github.com/LarsKolk/Anfaengerpraktikum)                 |
 |[aknierim](https://github.com/aknierim)                      |[AP](https://github.com/aknierim/AP)                                                 |
 |[HelenaCarlArne](https://github.com/HelenaCarlArne)          |[ProtokolleAP](https://github.com/HelenaCarlArne/ProtokolleAP)                       |
 |[dlmsr](https://github.com/dlmsr)                            |[praktikum](https://github.com/dlmsr/praktikum)                                      |
